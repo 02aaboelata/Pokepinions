@@ -1,8 +1,8 @@
 PokePinion Group Project
 
-Ali Aboelata (aaboelat)
-Parker Seaman (pwseaman)
-Jenny Chang (jchang38)
+Ali Aboelata
+Parker Seaman 
+Jenny Chang 
 
 A super fun super cute way to submit and view opinions on your favorite and least favorite pokemon. 
 
